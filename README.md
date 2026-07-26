@@ -1,6 +1,6 @@
 # ✦ Calculadora de Consola · Bruno S. Alejandro Dev ✦
 
-### Módulo 3 · Fundamentos de programación en JavaScript
+### Módulo 4 · Fundamentos de programación en JavaScript
 
 ---
 
