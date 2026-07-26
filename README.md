@@ -112,4 +112,4 @@ El desarrollo se realizó de forma progresiva, siguiendo las 5 lecciones del mó
 
 ---
 
-**© 2026 Bruno S. Alejandro Dev · Proyecto académico**
+**© 2026 Bruno S. Alejandro**
